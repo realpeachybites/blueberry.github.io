@@ -1,3 +1,6 @@
+This template is a fork that will be used as a project you are free to fork or clone this template for your own design. Please read the following below about the original template.
+
+
 # Twister
 ![twister preview](/img/twister_preview_big.jpg)
 
